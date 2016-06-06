@@ -71,3 +71,8 @@
 #iinput { 
 	display: table-cell; 
 }
+
+#ibutton {
+	margin-right: auto;
+	margin-left: auto;
+}
