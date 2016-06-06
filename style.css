@@ -92,4 +92,47 @@
     background-color: green;
 }
 
+#jglimmer{
+	background-image: url("http://aglimmerofhope.org/sites/all/themes/ourglimmer/img/agoh.png");
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 3%;
+	padding-right: 30%;
+	padding-bottom: 30%;
+	background-size: 50% 50%;
+}
+
+#jkenya{
+	background-image: url("http://revivehumanity.org/wp-content/uploads/2014/02/classroom_text.jpg");
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 3%;
+	padding-right: 30%;
+	padding-bottom: 30%;
+	background-size: 100% 100%;
+}
+
+
+
+#jfeed{
+	background-image: url("http://www.feedingamerica.org/assets/images/impact-we-make-wide.png");
+	margin-right: 10%;
+	margin-left: 10%;
+	margin-top: 3%;
+	padding-right: 30%;
+	padding-bottom: 30%;
+	background-size: 100% 100%;
+}
+
+#jcenter{
+	text-align: center;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+#jal{
+	margin-left:10%;
+}
+
+
 
