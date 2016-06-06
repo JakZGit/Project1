@@ -4,7 +4,7 @@
 }
 
 #inav {
-	margin-right: 10%;
+	margin-right: 20%;
 }
 
 #ili {
@@ -71,3 +71,26 @@
 #iinput { 
 	display: table-cell; 
 }
+
+
+.mdiv{
+	border: 1px solid black;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 2%;
+	
+}
+.mh1{
+
+	background-color: gray;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 2%;
+	text-align: center;
+
+}
+.ma:hover {
+    background-color: green;
+}
+
+
