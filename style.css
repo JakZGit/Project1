@@ -4,7 +4,7 @@
 }
 
 #inav {
-	margin-right: 20%;
+	margin-right: 10%;
 }
 
 #ili {
@@ -71,7 +71,6 @@
 #iinput { 
 	display: table-cell; 
 }
-
 
 .mdiv{
 	border: 1px solid black;
