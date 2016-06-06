@@ -55,16 +55,17 @@
 }
 
 #idonate {
+	font-size: 22px;
 	margin: auto;
 	display: table;
 }
 
 #ip { 
-	display: table-row;  
+	display: table-row;
 }
 
 #ilabel { 
-	display: table-cell; 
+	display: table-cell;
 }
 
 #iinput { 
